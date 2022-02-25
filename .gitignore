@@ -1,0 +1,6 @@
+venv
+node_modules
+package-lock.json
+videos.txt
+geckodriver.log
+geckodriver
