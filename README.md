@@ -1,11 +1,19 @@
-cancel any youtuber you dont like at the click of a button!
+scripts to help you cancel a vtuber you do not like.
 
-1. Run amebad.js (Make sure you have a youtube api key as your node env or just edit the code)
+Need to have dev profiles for twitter and youtube and add all the api keys/secrets in your env for these scripts to work.
 
-2. Copy/paste the videoIds into the array on amebad.py
+# amebad.js
 
-3. Run amebad.py (will require https://github.com/jdepoix/youtube-transcript-api) witht he bad words you want to find
+gets all livestream videoIds for a channel
 
-4. Post the problematic on twitter, which can be found here: https://twitter.com/
+# amebad.py
 
-5. Change society for the better
+cant take the videoIds livestreams and place them in here to analyze transcripts and search for words
+
+# lean.js
+
+analyzes twitter activity of a twitter profile
+
+# lean.py
+
+analyzes livestream chat of a youtube livestream
